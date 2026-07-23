@@ -191,7 +191,7 @@ Data Transformation & Dashboard Development
 
 ---
 
-# 📈 Power BI Dashboard Features
+#  Power BI Dashboard Features
 
 The Power BI dashboards include:
 
