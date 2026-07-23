@@ -253,7 +253,7 @@ This project demonstrates expertise in:
 
 ### Sales Dashboard
 
-![Sales_Dashboard](Sales_Dashboard.png)
+![Chinko_Dashboard](Chinko_Dashboard.png)
 
 ##  Author
 
